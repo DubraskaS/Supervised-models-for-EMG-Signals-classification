@@ -9,8 +9,9 @@ bash
 Copiar código
 /Modelos-supervisados-para-clasificación-de-señales-EMG
 
+```
 ├── data
-                                                                                                             │   ├── raw/                  # Conjunto de datos original de Kaggle
+│   ├── raw/                  # Conjunto de datos original de Kaggle
 │   └── processed/            # Datos procesados listos para el análisis
 ├── Models
 │   ├── modelo_1.ipynb        # Notebook para el Modelo 1: Preprocesamiento, entrenamiento y evaluación
@@ -20,6 +21,7 @@ Copiar código
 │   ├── modelo_1.ipynb        # Notebook para el Modelo 1: Preprocesamiento, entrenamiento y evaluación
 │   └── etc.ipynb             # Notebooks adicionales para otros modelos
 └── README.md                 # Descripción general del proyecto e instrucciones
+```
 
 # Models
 Cada notebook en el directorio notebooks incluye el pipeline completo para un modelo específico, cubriendo el preprocesamiento de datos, la extracción de características, el entrenamiento del modelo y la evaluación.
