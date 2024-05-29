@@ -35,15 +35,11 @@ etc.
 Para ejecutar los notebooks, asegúrate de tener el entorno requerido. Puedes configurar el entorno usando Conda o Pip.
 
   ## Usando Conda
-    ```
     conda env create -f environment.yml
     conda activate emg-classification
-    ```
   
   ## Usando Pip
-    ```
     pip install -r requirements.txt
-    ```
     
 # Uso
 Descargar el conjunto de datos: Asegúrate de tener el conjunto de datos de EMG desde Kaggle y colócalo en el directorio data/raw.
