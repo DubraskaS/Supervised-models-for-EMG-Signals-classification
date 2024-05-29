@@ -10,7 +10,7 @@ Copiar código
 /Modelos-supervisados-para-clasificación-de-señales-EMG
 
 ├── data
-│   ├── raw/                  # Conjunto de datos original de Kaggle
+                                                                                                             │   ├── raw/                  # Conjunto de datos original de Kaggle
 │   └── processed/            # Datos procesados listos para el análisis
 ├── Models
 │   ├── modelo_1.ipynb        # Notebook para el Modelo 1: Preprocesamiento, entrenamiento y evaluación
