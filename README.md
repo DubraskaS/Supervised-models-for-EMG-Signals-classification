@@ -8,6 +8,7 @@ Estructura del Repositorio
 bash
 Copiar código
 /Modelos-supervisados-para-clasificación-de-señales-EMG
+
 ├── data
 │   ├── raw/                  # Conjunto de datos original de Kaggle
 │   └── processed/            # Datos procesados listos para el análisis
