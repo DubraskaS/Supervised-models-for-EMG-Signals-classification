@@ -1,5 +1,9 @@
 # Modelos de Aprendizaje Supervisado para la Clasificación de Señales EMG (Español / English)
-Este repositorio contiene el código y los recursos para la clasificación de señales de electromiografía (EMG) utilizando varios algoritmos de aprendizaje supervisado. El proyecto es parte de una tesis que tiene como objetivo comparar el rendimiento de diferentes modelos en un conjunto de datos obtenido de Kaggle y probarlos en un circuito de adquisiciòn diseñado y montado en fìsico.
+Este repositorio contiene el código y los recursos para la clasificación de señales de electromiografía (EMG) utilizando varios algoritmos de aprendizaje supervisado. El proyecto tiene como objetivo comparar el rendimiento de diferentes modelos en un conjunto de datos obtenido de Kaggle y probarlos en un circuito de adquisiciòn diseñado y montado en fìsico. 
+
+## Reconocimientos
+
+Este proyecto se inspiró en el código del Proyecto XYZ, que está licenciado bajo Apache 2.0. Apreciamos su trabajo y lo utilizamos como guía para implementar nuestra solución, ajustada a la aplicación del circuito montado en físico para el proyecto en cuestión.
 
 ## Descripción General
 En aplicaciones biomédicas las señales electromiográficas (EMG) deben ser procesadas y analizadas en detalle, por lo que se utilizan distintos métodos de procesamiento de señales, Inteligencia Artificial (IA) y redes neuronales para los problemas de interpretación y clasificación que se puedan encontrar. El objetivo general del proyecto es estudiar y aplicar un algoritmo de Machine Learning (ML) o aprendizaje automático, específicamente de aprendizaje supervisado, para clasificar señales EMG de miembro superior con una precisión no menor al 90% y una eficiencia notable. Este algoritmo, elegido cuidadosamente luego de comparaciones de performance entre distintos modelos, utilizaría estas señales para permitir el movimiento asistido de la muñeca y la mano, posibilitando así la ejecución de movimientos de agarre básico.
@@ -51,5 +55,10 @@ Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en
 
 # Supervised models for EMG Signals classification (Español / English)
 Code for the classification of Electromyography (EMG) signals using various supervised learning algorithms. The project is part of a thesis that aims to compare the performance of different models on a dataset obtained from Kaggle and test on a physical circuit of adquisition.
+
+## Acknowledgments
+
+This project was inspired by the code from the XYZ Project, which is licensed under the Apache License 2.0. We appreciate their work and used it as a guide for implementing our own solution.
+
 
 
