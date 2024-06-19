@@ -17,7 +17,9 @@ En aplicaciones biomédicas las señales electromiográficas (EMG) deben ser pro
 ├── Test & comparisons
 │   ├── Comparing_models_results.ipynb        # Notebook para la comparación de resultados de los tres modelos, utilizando los modelos ya entrenados y guardados (en la corrida de los notebooks de 'Models')
 │   └── Serial_com_TESIS_results_3tests.ipynb             # Pruebas con el circuito de adquisición a tiempo real del modelo KNN implementado (arrojó mejores resultados)
-└── README.md                 # Descripción general del proyecto e instrucciones
+├── README.md                 # Descripción general del proyecto e instrucciones
+├── Environment.yml           # Archivo para crear env con conda
+└── requirements.txt          # Archivo para crear env con pip
 ```
 
 ## Modelos
@@ -74,7 +76,9 @@ In biomedical applications, electromyographic (EMG) signals must be processed an
 ├── Test & comparisons
 │ ├── Comparing_models_results.ipynb # Notebook for comparing the results of the three models, using the already trained and saved models (in the 'Models' notebook run)
 │ └── Serial_com_TESIS_results_3tests.ipynb # Tests with the real-time acquisition circuit of the implemented KNN model (it gave better results)
-└── README.md # Project overview and instructions
+├── README.md                 # Project overview and instructions
+├── Environment.yml           # File to create env using conda
+└── requirements.txt          # File to create env using pip
 ```
 
 ## Models
