@@ -97,8 +97,8 @@ Each notebook in the model directory includes the complete pipeline for a specif
 To run the notebooks, make sure you have the required environment. You can configure the environment using Conda or Pip.
 
  ### Using Conda
- conda env create -f environment.yml
- conda activate emg-classification
+    conda env create -f environment.yml
+    conda activate emg-classification
 
  ### Using Pip
  pip install -r requirements.txt
