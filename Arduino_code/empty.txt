@@ -1,1 +1,7 @@
-To save the arduino code for test circuit control
+## Español ##
+
+Este código conecta el Arduino con el circuito principal a través del pin analógico 3 (A3), refleja en el comando serial los valores, dentro del rango permitido, detectados en dicho pin, y genera un trazado de los mismos valores en el serial plotter disponible dentro de la misma interfaz.
+
+## English ##
+
+This code connects the Arduino to the main circuit through analog pin 3 (A3). It reflects, in the serial command, the values within the allowed range detected in that pin, and generates a tracing of the same values in the serial plotter available within the same interface.
